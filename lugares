@@ -1,0 +1,17 @@
+Lugares
+C_place
+D_place
+E_place
+F_place
+G_place
+H_place
+Rutas
+ruta_1 -> C_place:D_place = P:3; B:2; C:13
+ruta_2 -> C_place:E_place = P:2; B:0; C:12
+ruta_3 -> E_place:D_place = P:1; B:3; C:11
+ruta_4 -> D_place:F_place = P:4; B:4; C:14
+ruta_5 -> E_place:F_place = P:2; B:14; C:12
+ruta_6 -> E_place:G_place = P:3; B:0; C:13
+ruta_7 -> F_place:G_place = P:2; B:11; C:12
+ruta_8 -> F_place:H_place = P:1; B:2; C:11
+ruta_9 -> G_place:H_place = P:2; B:10; C:12
